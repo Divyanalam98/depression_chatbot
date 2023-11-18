@@ -1,9 +1,5 @@
 # Adapt/Enhance ChatGPT for Live Line
 
-## Collaborators
-<img width="258" alt="image" src="https://github.com/Divyanalam98/depression_chatbot/assets/63960112/0d88f98f-0128-435f-9edf-09e43ed869c1">
-
-
 ![image](https://github.com/Divyanalam98/depression_chatbot/assets/63960112/6ca4ee34-5356-4685-b7db-6a7aa1c79506)
 
 
