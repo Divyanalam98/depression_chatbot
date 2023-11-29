@@ -29,3 +29,22 @@ Talking about the risks and limitations, heavy computational power required and 
 There are chances of biases to creep in based on the training data. 
 Apart from these drawbacks, GPT looks like a solution for faster, accurate diagnoses and reduced healthcare costs as well.
 
+## Setup
+
+Step 1: 
+Execute https://drive.google.com/file/d/1CplLPvIgFYcCiwlgMDaXYEcUkGAGtvBu/view?usp=drive_link. This code is attached to the GitHub repository as well. This code would help in creating a finetuned model. This model is trained on mental health related data https://drive.google.com/drive/folders/1DgiTL6nsRulV61aI1pGqvMyfPykJPhiT?usp=drive_link.
+
+Step 2: [Optional] 
+Post fine-tuning, encapsulate your code and its dependencies into a Docker image. https://docs.docker.com/reference/
+
+Step 3: 
+Execute https://colab.research.google.com/drive/12IqVDuPBDvZesNEDlgDTHri0Je3NrO73?usp=sharing to get your interface (GUI).
+
+Step 4: [Optional] 
+Run 'gradio deploy' to permanently deploy on Hugging Face - Spaces. You will have to create requirements.txt for all dependencies here.
+
+## Additional Notes:
+
+We worked on building a depression chatbot using LSTM, BERT and GRU. You can find all the related codes and documentation here. 
+https://drive.google.com/drive/folders/1MQSkDMDDLfG6k1QJ5rZvI1wfu0XP8C2w?usp=drive_link
+
